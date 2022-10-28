@@ -1,5 +1,8 @@
 <h1 align="center">
   <b>ChudziudgiToJa</b>
+  Ucze się języków
+  
+  <b>
 
 <p>
 <div align="center">
