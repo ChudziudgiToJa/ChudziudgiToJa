@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>ChudziudgiToJa</b>
-  Ucze się języków
-  
+  <b>
+    learn languages
   <b>
 
 <p>
@@ -58,6 +58,4 @@ if __name__ == '__main__':
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
+Last Edited on: 28/10/2022
