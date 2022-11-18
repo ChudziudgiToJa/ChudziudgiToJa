@@ -16,6 +16,3 @@
 
 <a href="https://discordapp.com/users/441492546028306436" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="Chudziudgi@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
-
-<img width="100%" align="right" alt="Snake" src="https://github.com/ChudziudgiToJa/ChudziudgiToJa/blob/output/github-contribution-grid-snake.gif">
-
