@@ -1,9 +1,21 @@
-## Hi there 👋
-I'm 17 years old and I'm learning python
+<a href="https://wakatime.com/@3xanax" target="_blank">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@3xanax&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
+</a>
+<img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChudziudgiToJa&layout=compact&theme=codeSTACKr">
 
-### 📫 How to reach me:  
-[![Discord](https://img.shields.io/badge/-chudy%231294-%235662f6?logo=discord&style=flat-square&logoColor=white)](https://discordapp.com/users/441492546028306436)
+# Hi, I'm xanax 👋
 
-### 📊 Github Stats:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChudziudgiToJa&show_icons=true&hide_border=true" alt="Chudziudgi's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChudziudgiToJa&layout=compact&hide_border=true&exclude_repo=Seven-bot" alt="Nilsen84's language stats"/> |
-| ----------- | ----------- |
+<br>
+
+- 🌱 I’m currently learning **nothin**
+- ⚙️ Mastering: `Nextjs` 😎
+
+<br>
+
+#### 📫 Contact and Socials 🔎
+
+<a href="https://twitter.com/XanaxWasTaken" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://www.twitch.tv/3xanax" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
+<a href="mailto:xanax@4uss.cyou" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
+
+<img width="100%" align="right" alt="Snake" src="https://github.com/ChudziudgiToJa/ChudziudgiToJa/blob/output/github-contribution-grid-snake.svg">
