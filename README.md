@@ -7,8 +7,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **Python**
-- ⚙️ Mastering: `Java` 😎
+- 🌱 I’m currently learning **Java**
+- ⚙️ Mastering: `Python` 😎
 
 <br>
 
