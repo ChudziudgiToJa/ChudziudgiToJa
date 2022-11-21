@@ -1,9 +1,7 @@
 # 💫 About Me:
 <br>
 
-- 🌱 I’m currently learning **Java**
-- ⚙️ Mastering: `Python` 😎
-
+- 🌱 I’m currently learning **Java, Python**
 <br>
 
 
